@@ -1,0 +1,4 @@
+1,nerdcommenter
+2,nerdtree
+3,vim-colors-solarized
+
